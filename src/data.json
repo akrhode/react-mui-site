@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "France",
+    "tours": [
+      {
+        "id": 1,
+        "name": "Enjoy the scents of Provence",
+        "duration": 5,
+        "rating": 4.5,
+        "numberOfReviews": 426,
+        "price": 250,
+        "image": "https://images.pexels.com/photos/4106624/pexels-photo-4106624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      {
+        "id": 2,
+        "name": "Discover Mont-Saint-Michel",
+        "duration": 8,
+        "rating": 3.5,
+        "numberOfReviews": 303,
+        "price": 145,
+        "image": "https://images.pexels.com/photos/34223/mont-saint-michel-france-normandy-europe.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      {
+        "id": 3,
+        "name": "Climb up the Mont Blanc",
+        "duration": 2,
+        "rating": 4.5,
+        "numberOfReviews": 201,
+        "price": 175,
+        "image": "https://images.pexels.com/photos/416779/pexels-photo-416779.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      {
+        "id": 4,
+        "name": "Follow the kings at the Loire",
+        "duration": 3.5,
+        "rating": 4.5,
+        "numberOfReviews": 462,
+        "price": 123,
+        "image": "https://images.pexels.com/photos/16429896/pexels-photo-16429896.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Paris",
+    "tours": [
+      {
+        "id": 4,
+        "name": "Discover the Louvre",
+        "duration": 4,
+        "rating": 4.5,
+        "numberOfReviews": 222,
+        "price": 75,
+        "image": "https://images.pexels.com/photos/2363/france-landmark-lights-night.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      {
+        "id": 5,
+        "name": "Climb up the Eiffel Tower",
+        "duration": 2.5,
+        "rating": 4.5,
+        "numberOfReviews": 503,
+        "price": 95,
+        "image": "https://images.pexels.com/photos/532826/pexels-photo-532826.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      {
+        "id": 6,
+        "name": "Enjoy Parisian Opera",
+        "duration": 2,
+        "rating": 3.5,
+        "numberOfReviews": 387,
+        "price": 105,
+        "image": "https://images.pexels.com/photos/13303567/pexels-photo-13303567.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      {
+        "id": 7,
+        "name": "Visit Montmartre",
+        "duration": 2,
+        "rating": 4.5,
+        "numberOfReviews": 189,
+        "price": 110,
+        "image": "https://images.pexels.com/photos/4324002/pexels-photo-4324002.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      }
+    ]
+  }
+]
