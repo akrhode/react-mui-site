@@ -1,8 +1,9 @@
 import Container from "@mui/material/Container";
-import Typography from "@mui/material/Typography";
 import { Box } from "@mui/material";
 import QuiltedImageList from "../components/ImageLists";
 import CustomizedAccordions from "../components/Accordion";
+import { BottomNavigation, Paper, Typography } from "@mui/material";
+import BasicModal from "../components/Modal";
 
 const Tour = () => (
   <Container sx={{ width: 900 }}>
@@ -41,6 +42,14 @@ const Tour = () => (
       </Typography>
       <CustomizedAccordions />
     </Box>
+    <Paper
+      sx={{ position: "fixed", bottom: 0, left: 0, right: 0 }}
+      elevation={3}
+    >
+      <BottomNavigation>
+        <BasicModal />
+      </BottomNavigation>
+    </Paper>
   </Container>
 );
 
